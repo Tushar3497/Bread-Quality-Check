@@ -13,4 +13,4 @@ The project report can be viewed [here]().
 ![](https://github.com/Tushar3497/Bread-Quality-Check/blob/da6299e51b87822653b8b840dbee0606f486ddbc/fungal%20growth%20.png)
 
 ## Model
-![]()
+![](https://github.com/Tushar3497/Bread-Quality-Check/blob/d1406740829115220473fdfb95f7efef9e6f29e1/bread%20quality%20check.jpg)
