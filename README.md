@@ -10,4 +10,7 @@ This project focuses on using IoT-based sensors to monitor the internal environm
 The project report can be viewed [here]().
 
 ## Fungal Growth 
-!()
+![](https://github.com/Tushar3497/Bread-Quality-Check/blob/da6299e51b87822653b8b840dbee0606f486ddbc/fungal%20growth%20.png)
+
+## Model
+![]()
