@@ -7,7 +7,7 @@ But how does one ensure monitoring and control of such quality of bread in real-
 This project focuses on using IoT-based sensors to monitor the internal environment of bread storage for early detection of spoilage. The system integrates MQ7 and MQ135 gas sensors to detect harmful gases such as carbon monoxide (CO) and carbon dioxide (CO₂), which are often released during the decomposition process. The DHT11 sensor measures temperature and humidity, which are critical factors influencing mold growth and spoilage. Additionally, the AMG8833 thermal camera captures surface temperature variations, helping identify anomalies that may suggest fungal activity on the bread. By combining data from these sensors, the system aims to provide a comprehensive and real-time analysis of bread quality. Wheat bread is selected as the test subject for this project due to its widespread consumption and vulnerability to spoilage. This approach not only ensures food safety but also helps in reducing food waste by enabling timely intervention during the early stages of contamination or decay
 
 ## Project Report 
-The project report can be viewed [here]().
+The project report can be viewed [here](https://github.com/Tushar3497/Bread-Quality-Check/blob/9bbd3071ecc17695f406f682208b9fd5f7a33375/BREAD%20QUALITY%20CHECK%20USING%20IOT%20sem%206-Tushar.pdf).
 
 ## Fungal Growth 
 ![](https://github.com/Tushar3497/Bread-Quality-Check/blob/da6299e51b87822653b8b840dbee0606f486ddbc/fungal%20growth%20.png)
